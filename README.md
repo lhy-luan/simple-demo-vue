@@ -1,4 +1,4 @@
-# simple-vue-demo
+# simple-demo-vue
 
 ## Project setup
 ```
